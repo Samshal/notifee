@@ -89,7 +89,7 @@ import io.invertase.notifee.NotifeeApiModule;
 public class MainActivity extends ReactActivity {
   @Override
   protected String getMainComponentName() {
-    return NotifeeApiModule.getMainComponent("app");
+    return NotifeeApiModule.getMainComponent("main");
   }
 }
 ```
